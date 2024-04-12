@@ -53,5 +53,8 @@
     "plugins": {
       "autoprefixer": {}
     }
+  },
+  "dependencies": {
+    "node": "^14.21.3"
   }
 }
